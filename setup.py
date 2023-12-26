@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 import codecs
 import os
 
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 DESCRIPTION = 'gktools is an assiting package for doing basic math operations'
 LONG_DESCRIPTION = 'A package that allows to do basic math operations. This package is built as part of a tutorial for packaging python module'
 
