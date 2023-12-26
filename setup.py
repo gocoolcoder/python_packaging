@@ -1,6 +1,4 @@
 from setuptools import setup, find_packages
-import codecs
-import os
 
 VERSION = '0.0.3'
 DESCRIPTION = 'gktools is an assiting package for doing basic math operations'
