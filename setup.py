@@ -16,7 +16,7 @@ setup(
     name="gktools",
     version=VERSION,
     author="Gokul Kumar Jayaram",
-    author_email="<mail@neuralnine.com>",
+    author_email="<gokulkumar.jayaram@gmail.com>",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=long_description,
