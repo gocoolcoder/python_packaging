@@ -4,7 +4,7 @@ import os
 
 VERSION = '0.0.1'
 DESCRIPTION = 'gktools is an assiting package for doing basic math operations'
-LONG_DESCRIPTION = 'A package that allows to basic math operations. This package is built as part of a tutorial for packaging phython module'
+LONG_DESCRIPTION = 'A package that allows to do basic math operations. This package is built as part of a tutorial for packaging python module'
 
 # Setting up
 setup(
